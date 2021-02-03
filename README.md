@@ -8,7 +8,7 @@ NOT responsible for any Honor Code Violation. Only placing code and progress on 
 
 ## Description
 ### This class is a introduction of robotic expereiment and desgin. It utilized [Classic TI Robotics Systems Learning Kit](https://university.ti.com/en/faculty/ti-robotics-system-learning-kit/ti-robotics-system-learning-kit) to complete multi tasks as labs. Each folder containing instuction and supporting material to each labs, along side with PDF reports. Video will be upload to below as visual instuction and showcase.
-#### This course challenged me use varisty of electical and mechincal engingeerning skills to solve problems such as usage of sensors and avoid optiscals.
+### This course challenged me use varisty of electical and mechincal engingeerning skills to solve problems such as usage of sensors and avoid optiscals.
 
 ## Labs
 ### Lab1
