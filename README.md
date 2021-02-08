@@ -12,3 +12,4 @@ NOT responsible for any Honor Code Violation. Only placing code and progress on 
 
 ## Labs
 ### Lab1
+[![Lab 1](https://youtu.be/af0BJdCv5HM/0.jpg)](https://youtu.be/watch?v=af0BJdCv5HM)
