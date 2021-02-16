@@ -1,0 +1,20 @@
+//*******************************************************************
+// Blink - verify my MSP432 board works by blinking one LED
+// James Conrad, 2021-02-09
+//*******************************************************************
+
+#define RED 75        // Define RED of the tri-color LED as pin 75
+#define GREEN 76      // Define GREEN of the tri-color LED as pin 76
+#define BLUE 77       // Define BLUE of the tri-color LED as pin 77
+  
+void setup() {        // put your setup code here, to run once:
+  // initialize one digital pin as outputs.
+  pinMode(RED, OUTPUT);      //RED LED
+}
+
+void loop() {    // put your main code here, to run repeatedly: 
+  digitalWrite(RED, HIGH);   // turn the RBG (RED) LED on (HIGH is the voltage level)
+  delay(1000);               // wait for a second
+  digitalWrite(RED, LOW);    // turn the RBG (RED) LED off by making the voltage LOW
+  delay(1000);               // wait for a second
+}
