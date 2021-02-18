@@ -22,7 +22,7 @@ NOT responsible for any Honor Code Violation. Only placing code and progress on 
 
   https://youtu.be/3eDsLFUVrrA
 
-#### There is also a revison with less line of code than pervious
+#### There is also a revision with less line of code than pervious
 
   [![Lab 1](https://img.youtube.com/vi/9-GpwTS-vTc/0.jpg)](https://youtu.be/9-GpwTS-vTc)
 
