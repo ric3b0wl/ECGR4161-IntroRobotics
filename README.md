@@ -18,12 +18,18 @@ NOT responsible for any Honor Code Violation. Only placing code and progress on 
 
 
 ### Lab2
-  [![Lab 1](https://img.youtube.com/vi/3eDsLFUVrrA/0.jpg)](https://youtu.be/3eDsLFUVrrA)
+  [![Lab 2](https://img.youtube.com/vi/3eDsLFUVrrA/0.jpg)](https://youtu.be/3eDsLFUVrrA)
 
   https://youtu.be/3eDsLFUVrrA
 
 #### There is also a revision with less line of code than pervious
 
-  [![Lab 1](https://img.youtube.com/vi/9-GpwTS-vTc/0.jpg)](https://youtu.be/9-GpwTS-vTc)
+  [![Lab 2](https://img.youtube.com/vi/9-GpwTS-vTc/0.jpg)](https://youtu.be/9-GpwTS-vTc)
 
   https://youtu.be/9-GpwTS-vTc
+  
+  
+### Lab3
+  [![Lab 2](https://img.youtube.com/vi/imBYFDec1sI/0.jpg)](https://youtu.be/imBYFDec1sI)
+
+  https://youtu.be/imBYFDec1sI
