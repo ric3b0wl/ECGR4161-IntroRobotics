@@ -30,6 +30,12 @@ NOT responsible for any Honor Code Violation. Only placing code and progress on 
   
   
 ### Lab3
-  [![Lab 2](https://img.youtube.com/vi/imBYFDec1sI/0.jpg)](https://youtu.be/imBYFDec1sI)
+  [![Lab 3](https://img.youtube.com/vi/imBYFDec1sI/0.jpg)](https://youtu.be/imBYFDec1sI)
 
   https://youtu.be/imBYFDec1sI
+  
+  
+### Lab4
+  [![Lab 4](https://img.youtube.com/vi/Na4BIT_Mrjs/0.jpg)](https://youtu.be/Na4BIT_Mrjs)
+
+  https://youtu.be/Na4BIT_Mrjs
