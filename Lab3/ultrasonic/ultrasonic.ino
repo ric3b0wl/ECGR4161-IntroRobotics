@@ -52,7 +52,6 @@ void loop() {
   long centimeters; 
   
   pulseLength = get_sonar_val();
-  inches = pulseLength / 148; 
   centimeters = pulseLength / 58; 
                                   
   Serial.print("Median distance = ");
